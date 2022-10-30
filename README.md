@@ -1,5 +1,7 @@
 # revtex-markdown-paper
 
+This is minor fixed fork from `basnijholt/revtex-markdown-paper`, just to use filter `--pandoc-citeproc`
+
 REVTeX paper in markdown using LaTeX.
 
 The paper (`paper.md`) is written in [Markdown](https://daringfireball.net/projects/markdown/) and then translated to LaTeX using [pandoc](http://pandoc.org/) and the `revtex.template`.
